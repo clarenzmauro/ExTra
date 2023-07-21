@@ -1,5 +1,5 @@
 # ExTra
-Derived from the word Expenses Tracker.
+Derived from the word Expense Tracker.
 
 The Expense Tracker Application is a simple console-based program written in C++. It allows users to log their expenses, set a budget, and generate financial reports based on the logged expenses. The application is designed to help users track their spending and manage their finances effectively.
 
